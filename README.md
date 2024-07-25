@@ -7,3 +7,4 @@ We'll design this type of sample Android App using `SQLite` database to store da
 You will find all of database related code in [this package](https://github.com/hasancse91/Android-SQLite-Tutorial/tree/master/03.SQLite-Multiple-(Three)-Tables-CRUD/app/src/main/java/com/hellohasan/sqlite_multiple_three_tables_crud/database).
 Thare are some interfaces and their implementations. I tried to separate database related code from Activity.# TugasBesar2
 # TugasBesar2
+#Tugas-Besar-2
